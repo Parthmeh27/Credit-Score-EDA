@@ -41,16 +41,12 @@ Classify customers into **Poor**, **Standard**, or **Good** credit score tiers u
 
 ---
 
-## 📈 Sample Outputs
+## 📈 Check the notebook for:
 
-Check the notebook for:
 - Correlation heatmaps  
 - Class distribution plots  
 - Confusion matrix visualizations
 
 ---
 
-## 👨‍💻 Author
-
-**Parth**  
 📫 [GitHub](https://github.com/Parthmeh27) • [LinkedIn](https://linkedin.com/in/parth01) • [Email](mailto:parthmehandru1234@gmail.com)
